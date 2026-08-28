@@ -20,6 +20,7 @@ For the typography, I chose an elegant serif font because I wanted the flower sh
 ![image alt](https://github.com/chloeaiah/PRELIM-EXAM_MANAOPANAO/blob/a1cb621c6e2534fc5eb283721544d81bbf533e00/COLORTYPOGRAPHY_MANAOPANAO.png) 
 
 ## Activity 3: Social Media Infographics and Mini Project Documentation
+![image alt](https://github.com/chloeaiah/PRELIM-EXAM_MANAOPANAO/blob/77b461d03a02c6afce67414782a2ca9c1d80af26/Infographic_MANAOPANAO%20(1).png)
 
 My output is an infographic called “SmartStudy: A Digital Solution for Managing College Workload & Study Time.” The main concept is to present a common problem among college students—being overloaded with assignments, exams, projects, and group activities and introduce SmartStudy as a digital solution. The infographic shows how too much workload can lead to poor time management, procrastination, stress, fatigue, and lower performance. It then presents the solution and explains how SmartStudy can help students organize tasks, monitor deadlines, prioritize workloads, focus during study sessions, and track their progress.
 
