@@ -3,6 +3,6 @@ My GitHub portfolio organizes my activities, projects, and outputs in one access
 
 ## TABLE OF CONTENTS
 
--[Activity 1] (#Activity1)
+-[Activity 1] ()
 
  ## Activity 1: Presentation Design Principles 
