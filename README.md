@@ -2,7 +2,8 @@
 My GitHub portfolio organizes my activities, projects, and outputs in one accessible space.
 
 ## Activity 1: Presentation Design Principles 
-https://github.com/chloeaiah/PRELIM-EXAM_MANAOPANAO/blob/5dab59ef6d03dee7f35c60834aa2d0b7a552abd5/ACTIVITY%201%20-%20GE%204120_MANAOPANAO.jpg 
+![image alt](https://github.com/chloeaiah/PRELIM-EXAM_MANAOPANAO/blob/5dab59ef6d03dee7f35c60834aa2d0b7a552abd5/ACTIVITY%201%20-%20GE%204120_MANAOPANAO.jpg)
+
 I applied design principles such as contrast, alignment, balance, and visual hierarchy to make the presentation clear and easy to understand. I used contrast to make important information stand out, while alignment kept the text and elements organized. I also maintained balance by arranging the content properly so the design did not look crowded. The use of visual hierarchy helped guide the viewer’s attention from the main title to the important details, such as the free coffee announcement and event information. These principles made the presentation more organized, readable, and visually appealing.
 
 ## Activity 2: Color Palette and Typography
