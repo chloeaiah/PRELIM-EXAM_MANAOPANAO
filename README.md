@@ -1,6 +1,149 @@
 # PRELIM-EXAM_MANAOPANAO
 My GitHub portfolio organizes my activities, projects, and outputs in one accessible space.
 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Digital Portfolio</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: #f8f6f2;
+            color: #333;
+        }
+
+        header {
+            background: #d8cfc4;
+            padding: 30px;
+            text-align: center;
+        }
+
+        nav {
+            background: #a8b5a0;
+            padding: 15px;
+            text-align: center;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: white;
+            margin: 15px;
+            font-weight: bold;
+        }
+
+        section {
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
+
+        .card {
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            width: 250px;
+            box-shadow: 0 4px 10px #ddd;
+        }
+
+        .card a {
+            display: inline-block;
+            margin-top: 10px;
+            background: #a8b5a0;
+            color: white;
+            padding: 10px 15px;
+            border-radius: 8px;
+            text-decoration: none;
+        }
+
+        footer {
+            background: #d8cfc4;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>MY DIGITAL PORTFOLIO</h1>
+    <p>My Academic Journey & Creative Works</p>
+</header>
+
+<nav>
+    <a href="#home">Home</a>
+    <a href="#about">About Me</a>
+    <a href="#academic">Academic Works</a>
+    <a href="#projects">Projects</a>
+</nav>
+
+<section id="home">
+    <h2>Welcome to My Portfolio!</h2>
+    <p>A collection of my academic works, projects, and achievements.</p>
+</section>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>Hello! I am a Civil Engineering student.
+    This portfolio showcases my academic journey,
+    projects, and learning experiences.</p>
+</section>
+
+<section id="academic">
+    <h2>Academic Works</h2>
+
+    <div class="container">
+
+        <div class="card">
+            <h3>PRELIMS</h3>
+            <p>First grading period outputs.</p>
+            <a href="prelims.html">View Works</a>
+        </div>
+
+        <div class="card">
+            <h3>MIDTERMS</h3>
+            <p>Midterm academic outputs.</p>
+            <a href="midterms.html">View Works</a>
+        </div>
+
+        <div class="card">
+            <h3>FINALS</h3>
+            <p>Final grading period outputs.</p>
+            <a href="finals.html">View Works</a>
+        </div>
+
+    </div>
+</section>
+
+<section id="projects">
+    <h2>Engineering Projects</h2>
+    <div class="container">
+        <div class="card">
+            <h3>My Projects</h3>
+            <p>Explore my engineering projects and outputs.</p>
+            <a href="projects.html">View Projects</a>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 My Digital Portfolio</p>
+</footer>
+
+</body>
+</html>
+
 ## Activity 1: Presentation Design Principles 
 ![image alt](https://github.com/chloeaiah/PRELIM-EXAM_MANAOPANAO/blob/5dab59ef6d03dee7f35c60834aa2d0b7a552abd5/ACTIVITY%201%20-%20GE%204120_MANAOPANAO.jpg)
 
