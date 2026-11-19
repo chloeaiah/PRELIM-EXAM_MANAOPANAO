@@ -1,59 +1,65 @@
 
 <div align="center">
 
-# ✦ ACTIVITY 2 ✦
+# ✦ ACTIVITY 02 ✦
+### COLOR PALETTE AND TYPOGRAPHY
 
-### GE 4120 | COURSE PORTFOLIO
+**GE 4120 | PRELIM EXAM**
 
-`CIVIL ENGINEERING` · `ACADEMIC WORK`
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E6D9F2&height=5" width="80%" />
-
-**A Journey of Learning and Discovery**
-
-</div>
+*Flower Shop Branding and Visual Identity*
 
 ---
 
-## 01 — ACTIVITY OVERVIEW
+</div>
 
-**Activity Title:** [Insert Activity Title]
+## 01 — TAGLINE
 
-**Description:**
+![Tagline Design](https://raw.githubusercontent.com/chloeaiah/PRELIM-EXAM_MANAOPANAO/a7d3fd25889e4d3e825e55b0b59e2388f4f8e024/TAGLINE_MANAOPANAO.png)
 
-This activity focuses on [explain the main topic, purpose, and objectives of the activity]. It involves applying the concepts and techniques discussed in class to complete the given tasks.
+I chose soft pink, light blue, cream, and dark green as the main colors because they reflect the natural beauty and freshness of a flower shop. The soft pink represents love, sweetness, and the delicate appearance of flowers, while the light blue gives the design a calm, fresh, and peaceful feeling.
 
-## 02 — LEARNING REFLECTION
+I used cream as the main background color because it creates a warm and clean appearance without being too harsh. The dark green represents leaves, plants, nature, and growth, making it an important color for connecting the design to flowers and the natural environment. I also used black for some elements to create contrast and make the important details easier to notice.
 
-Throughout this activity, I gained knowledge and experience in the following areas:
+---
 
-- **Key Concepts:** [Explain the important concepts you learned.]
-- **Skills Developed:** [Describe the technical or practical skills you practiced.]
-- **Knowledge Gained:** [Explain how the activity improved your understanding.]
+## 02 — HEADER
 
-## 03 — CHALLENGES & SOLUTIONS
+![Header Design](https://raw.githubusercontent.com/chloeaiah/PRELIM-EXAM_MANAOPANAO/cf7475f2e89be2ea8c57e1177115eed2a3406323/HEADER_MANAOPANAO.jpg)
 
-One of the challenges I encountered during this activity was [describe the problem or difficulty].
+For the typography, I chose an elegant serif font because I wanted the flower shop to have a sophisticated, delicate, and timeless identity. The style of the font complements the floral images and gives the overall design a more premium and artistic feel.
 
-To overcome this challenge, I [explain the steps, strategies, or resources you used]. This experience helped me become more patient, resourceful, and confident in completing similar tasks.
+I used larger and more decorative typography for the main headings so they would immediately attract attention, while the smaller text is kept simple and readable.
 
-## 04 — FUTURE APPLICATIONS
+---
 
-The knowledge and skills gained from this activity can be applied to future academic tasks and engineering-related applications. I aim to continue improving these skills through practice, exploration, and hands-on experience.
+## 03 — COLOR PALETTE & TYPOGRAPHY
+
+![Color Palette and Typography](https://raw.githubusercontent.com/chloeaiah/PRELIM-EXAM_MANAOPANAO/a1cb621c6e2534fc5eb283721544d81bbf533e00/COLORTYPOGRAPHY_MANAOPANAO.png)
+
+Overall, the combination of colors and typography creates a soft, elegant, feminine, and nature-inspired look that represents the beauty and personality of my flower shop brand.
+
+---
+
+## 04 — DESIGN REFLECTION
+
+Through this activity, I learned how important color selection and typography are in establishing a brand's visual identity. I understood how different colors communicate emotions and how font styles influence the overall appearance and personality of a design.
+
+I also learned that consistency between colors, typography, and visual elements helps create a more organized and recognizable brand.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E6D9F2&height=5" width="80%" />
+---
 
 **CHLOE AIAH A. MANAOPANAO**
 
-*GE 4120 · Ateneo de Davao University*
+*GE 4120 | Ateneo de Davao University*
 
-✧ *Learning today, building tomorrow.* ✧
+✦ Designing with creativity and purpose. ✦
 
 [← Back to Main Portfolio](../README.md)
 
 </div>
+
 
