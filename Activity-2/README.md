@@ -58,7 +58,7 @@ I also learned that consistency between colors, typography, and visual elements 
 
 ✦ Designing with creativity and purpose. ✦
 
-[← Back to Main Portfolio](../README.md)
+[← Back to Main Portfolio](/README.md)
 
 </div>
 
