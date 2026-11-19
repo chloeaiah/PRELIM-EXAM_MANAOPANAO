@@ -127,7 +127,7 @@ Most importantly, I realized that AI should serve as an assisting tool rather th
 
 🎀 ─────────────── 🎀
 
-[← Back to Main Portfolio](../README.md)
+[← Back to Main Portfolio](/https://github.com/chloeaiah/PRELIM-EXAM_MANAOPANAO/blob/d806e57c8a13afa688afea7c5f777ea24b22c5a3/README.md)
 
 </div>
 
