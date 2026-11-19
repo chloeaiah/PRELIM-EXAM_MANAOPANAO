@@ -72,7 +72,7 @@ We aimed to make the discussion informative and accessible by presenting the top
 
 ✦ Learn · Collaborate · Share ✦
 
-[← Back to Main Portfolio](README.md)
+[← Back to Main Portfolio](/README.md)
 
 </div>
 
