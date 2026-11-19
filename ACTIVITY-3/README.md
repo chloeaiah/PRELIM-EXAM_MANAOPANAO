@@ -65,7 +65,7 @@ Overall, I aimed to create an infographic that is informative, visually engaging
 
 ✦ Creativity • Communication • Innovation ✦
 
-[← Back to Main Portfolio](../README.md)
+[← Back to Main Portfolio](/README.md)
 
 </div>
 
