@@ -48,7 +48,7 @@ This repository contains my GE 4120 activities.
 |---|---|
 | [🌸 Activity 1](Activity-1/Source-Code/README.md) | View Activity 1 |
 | [🌸 Activity 2](Activity-2/README.md) | View Activity 2 |
-| [🌸 Activity 3](Activity-3/README.md) | View Activity 3 |
+| [🌸 Activity 3](ACTIVITY-3/README.md) | View Activity 3 |
 | [🌸 Activity 4](Activity-4/README.md) | View Activity 4 |
 | [🌸 Activity 5](Activity-5/README.md) | View Activity 5 |
 | [🌸 Activity 6](Activity-6/README.md) | View Activity 6 |
