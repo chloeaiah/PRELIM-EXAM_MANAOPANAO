@@ -51,7 +51,7 @@ This repository contains my GE 4120 activities.
 | [🌸 Activity 3](ACTIVITY-3/README.md) | View Activity 3 |
 | [🌸 Activity 4](ACTIVITY-4) | View Activity 4 |
 | [🌸 Activity 5](ACTIVITY-5/README.md) | View Activity 5 |
-| [🌸 Activity 6](ACTIVITY 6/README.md) | View Activity 6 |
+| [🌸 Activity 6](https://github.com/chloeaiah/PRELIM-EXAM_MANAOPANAO/blob/070e93167c4f6f0d89051af45bb32d2e6e1d8dd7/ACTIVITY%206/README.md) | View Activity 6 |
 | [🌸 Activity 7](Activity-7/README.md) | View Activity 7 |
 
 ## 🌸 What I Aim to Learn
