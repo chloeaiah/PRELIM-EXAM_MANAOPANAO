@@ -41,13 +41,18 @@ This repository contains my GE 4120 activities.
 
 | Folder | Description |
 |---|---|
-| 📁 Activity-1 | [Activity-1/Source-Code/README.md]
-| 📁 Activity-2 | Activity 2 |
-| 📁 Activity-3 | Activity 3 |
-| 📁 Activity-4 | Activity 4 |
-| 📁 Activity-5 | Activity 5 |
-| 📁 Activity-6 | Activity 6 |
-| 📁 Activity-7 | Activity 7 |
+
+## 🎀 My Activities
+
+| Activity | Description |
+|---|---|
+| [🌸 Activity 1](Activity-1/README.md) | View Activity 1 |
+| [🌸 Activity 2](Activity-2/README.md) | View Activity 2 |
+| [🌸 Activity 3](Activity-3/README.md) | View Activity 3 |
+| [🌸 Activity 4](Activity-4/README.md) | View Activity 4 |
+| [🌸 Activity 5](Activity-5/README.md) | View Activity 5 |
+| [🌸 Activity 6](Activity-6/README.md) | View Activity 6 |
+| [🌸 Activity 7](Activity-7/README.md) | View Activity 7 |
 
 ## 🌸 What I Aim to Learn
 
