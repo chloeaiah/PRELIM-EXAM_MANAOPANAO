@@ -1,29 +1,76 @@
 # PRELIM-EXAM_MANAOPANAO
 My GitHub portfolio organizes my activities, projects, and outputs in one accessible space.
 
-## Activity 1: Presentation Design Principles 
-![image alt](https://github.com/chloeaiah/PRELIM-EXAM_MANAOPANAO/blob/5dab59ef6d03dee7f35c60834aa2d0b7a552abd5/ACTIVITY%201%20-%20GE%204120_MANAOPANAO.jpg)
 
-I applied design principles such as contrast, alignment, balance, and visual hierarchy to make the presentation clear and easy to understand. I used contrast to make important information stand out, while alignment kept the text and elements organized. I also maintained balance by arranging the content properly so the design did not look crowded. The use of visual hierarchy helped guide the viewer’s attention from the main title to the important details, such as the free coffee announcement and event information. These principles made the presentation more organized, readable, and visually appealing.
+<div align="center">
 
-## Activity 2: Color Palette and Typography
-### TAGLINE
-![image alt](https://github.com/chloeaiah/PRELIM-EXAM_MANAOPANAO/blob/a7d3fd25889e4d3e825e55b0b59e2388f4f8e024/TAGLINE_MANAOPANAO.png)
-I chose soft pink, light blue, cream, and dark green as the main colors because they reflect the natural beauty and freshness of a flower shop. The soft pink represents love, sweetness, and the delicate appearance of flowers, while the light blue gives the design a calm, fresh, and peaceful feeling. I used cream as the main background color because it creates a warm and clean appearance without being too harsh. The dark green represents leaves, plants, nature, and growth, making it an important color for connecting the design to flowers and the natural environment. I also used black for some elements to create contrast and make the important details easier to notice.
+# 🎀 CHLOE AIAH A. MANAOPANAO 🎀
 
-### HEADER
-![image alt](https://github.com/chloeaiah/PRELIM-EXAM_MANAOPANAO/blob/cf7475f2e89be2ea8c57e1177115eed2a3406323/HEADER_MANAOPANAO.jpg)
+### ✧ My GE 4120 GitHub Portfolio ✧
 
-For the typography, I chose an elegant serif font because I wanted the flower shop to have a sophisticated, delicate, and timeless identity. The style of the font complements the floral images and gives the overall design a more premium and artistic feel. I used the larger and more decorative typography for the main headings so they would immediately attract attention, while the smaller text is kept simple and readable. Overall, the combination of the colors and typography creates a soft, elegant, feminine, and nature-inspired look that represents the beauty and personality of my flower shop brand.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=180&section=header&text=Welcome%20to%20My%20Portfolio!&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%" />
 
-### COLOR TYPOGRAPHY 
-![image alt](https://github.com/chloeaiah/PRELIM-EXAM_MANAOPANAO/blob/a1cb621c6e2534fc5eb283721544d81bbf533e00/COLORTYPOGRAPHY_MANAOPANAO.png) 
+**Civil Engineering Student | Ateneo de Davao University**
 
-## Activity 3: Social Media Infographics and Mini Project Documentation
-![image alt](https://github.com/chloeaiah/PRELIM-EXAM_MANAOPANAO/blob/77b461d03a02c6afce67414782a2ca9c1d80af26/Infographic_MANAOPANAO%20(1).png)
+🌷 Welcome to my GitHub portfolio! This repository contains my
+GE 4120 activities, programming exercises, and learning experiences.
 
-My output is an infographic called “SmartStudy: A Digital Solution for Managing College Workload & Study Time.” The main concept is to present a common problem among college students—being overloaded with assignments, exams, projects, and group activities and introduce SmartStudy as a digital solution. The infographic shows how too much workload can lead to poor time management, procrastination, stress, fatigue, and lower performance. It then presents the solution and explains how SmartStudy can help students organize tasks, monitor deadlines, prioritize workloads, focus during study sessions, and track their progress.
+</div>
 
-For the design choices, I used a warm and playful color palette with cream, yellow, coral, green, and black. The cream grid background gives the infographic a notebook or study-planner feeling, which connects well with the topic of college students and studying. Yellow is used to highlight important sections such as “The Problem” and “The Solution,” while coral is used for other major headings and boxes to create contrast and guide the reader through the infographic. I also used bold, playful typography for the headings to make them noticeable and energetic, while the simpler text style keeps the information readable. The illustrations of pencils, notebooks, calculators, rulers, flowers, and graduation-related elements reinforce the student and academic theme.
+---
 
-For the creative process, I first identified the problem of college students struggling to manage multiple responsibilities. I then organized the information into clear sections: the problem, real-world impact, solution, and how SmartStudy works. I arranged these sections in a logical top-to-bottom flow so that the viewer can easily follow the problem and understand how the proposed solution addresses it. I added simple icons, illustrations, arrows, check marks, and highlighted text to make the information easier to scan instead of relying only on long paragraphs. Overall, I aimed to create an infographic that is informative, visually engaging, organized, and easy for college students to understand.
+## 🎀 About Me
+
+Hello! I'm **Chloe Aiah A. Manaopanao**, a 3rd-year Civil Engineering student at **Ateneo de Davao University**.
+
+I am passionate about learning how technology, programming, and engineering work together to solve real-world problems. Through this course, I aim to improve my technical skills, logical thinking, and problem-solving abilities.
+
+## 💻 Skills & Tools
+
+| Category | Skills |
+|---|---|
+| Programming | Basic Programming |
+| Engineering Software | AutoCAD |
+| Computational Tools | SMath Studio |
+| Productivity | Microsoft Excel |
+| Technical Skills | Problem-Solving, Analytical Thinking |
+
+## 📂 My Activities
+
+This repository contains my GE 4120 activities.
+
+| Folder | Description |
+|---|---|
+| 📁 Activity-1 | Activity 1 |
+| 📁 Activity-2 | Activity 2 |
+| 📁 Activity-3 | Activity 3 |
+| 📁 Activity-4 | Activity 4 |
+| 📁 Activity-5 | Activity 5 |
+| 📁 Activity-6 | Activity 6 |
+| 📁 Activity-7 | Activity 7 |
+
+## 🌸 What I Aim to Learn
+
+- Develop my programming and computational skills.
+- Apply technology to engineering-related problems.
+- Improve my logical and analytical thinking.
+- Gain confidence in using different software tools.
+- Explore how programming can support Civil Engineering.
+
+## 💗 Contact & Connect
+
+**School:** Ateneo de Davao University  
+**Course:** Bachelor of Science in Civil Engineering  
+**Year Level:** 3rd Year
+
+---
+
+<div align="center">
+
+### ✧ Thank you for visiting my portfolio! ✧
+
+*Learning, growing, and building one activity at a time.* 🌷
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=100&section=footer" width="100%" />
+
+</div>
