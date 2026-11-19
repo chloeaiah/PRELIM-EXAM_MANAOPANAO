@@ -80,7 +80,7 @@ Overall, my goal was to create an informative and visually appealing infographic
 
 🌱 *Building today for a sustainable tomorrow.*
 
-[← Back to Main Portfolio](../README.md)
+[← Back to Main Portfolio](/README.md)
 
 </div>
 
